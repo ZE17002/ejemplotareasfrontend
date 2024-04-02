@@ -10,7 +10,11 @@ El proyecto esta desarrollado en Vue cli por lo que debe instalarlo para asi pod
 ```
 npm install -g @vue/cli
 ```
-
+### Instale el yarn 
+Ejecute el comando para instalar el yarn
+```
+npm install yarn
+```
 ### Levante DEV
 ejecute el siguiente comando para levantar localmente el proyecto y probarlo
 ```
